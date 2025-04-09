@@ -32,6 +32,10 @@
   - [部署Dashboard](/uk8s/administercluster/dashboard)
   - [集群版本升级](/uk8s/administercluster/cluster_version_update)
   - [集群常见问题](/uk8s/troubleshooting/cluster_summary.md)
+- 权限管理
+  - [概述](/uk8s/auth/intro)
+  - [RAM 授权管理](/uk8s/auth/ram)
+  - [RBAC 授权管理](/uk8s/auth/rbac)
 - 节点管理
   - [集群节点配置推荐](/uk8s/introduction/node_requirements)
   - [节点池](/uk8s/administercluster/node_group)
